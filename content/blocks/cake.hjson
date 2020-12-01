@@ -1,0 +1,7 @@
+requirements: [
+	spore-pod/30
+	sand/15
+]
+
+category: effect
+research: copper-wall
